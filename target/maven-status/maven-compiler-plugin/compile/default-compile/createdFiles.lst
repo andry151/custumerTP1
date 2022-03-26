@@ -1,0 +1,6 @@
+fr\grin\tpcustomerapplicationandry\JakartaRestConfiguration.class
+fr\grin\tpcustomerapplicationandry\entities\DiscountCode.class
+fr\grin\tpcustomerapplicationandry\session\CustomerManager.class
+fr\grin\tpcustomerapplicationandry\entities\Customer.class
+fr\grin\tpcustomerapplicationandry\entities\MicroMarket.class
+fr\grin\tpcustomerapplicationandry\resources\JakartaEE8Resource.class
